@@ -1,0 +1,49 @@
+p{
+    background-color: beige;
+}
+
+body {
+    color: red;
+    background-color: gray;
+    width: 1000px;
+}
+
+h1{
+    text-align: center;
+}
+
+ol{
+    padding: 0px;
+    margin: 0px;
+}
+
+li{
+    list-style-type: none;
+    display: inline-block;
+    width:21%;
+    background-color: rgb(223, 138, 138);
+    color: white;
+    margin: 0px;
+    padding: 10px;
+}
+
+span.webpage{
+    color: red;
+}
+
+div.pdivclass{
+    color: black
+}
+
+a#myid{
+    color: orange;
+}
+
+a.menu{
+    color: white;
+}
+
+li:hover {
+    background-color: lavender;
+    color: black;
+}
