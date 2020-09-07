@@ -1,10 +1,10 @@
 p{
-    background-color: beige;
+   /* background-color: beige; */
 }
 
 body {
-    color: red;
-    background-color: gray;
+    color: black;
+    background-color: white;
     width: 1000px;
 }
 
