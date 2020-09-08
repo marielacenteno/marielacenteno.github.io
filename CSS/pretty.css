@@ -52,3 +52,11 @@ li:hover {
     background-color: lavender;
     color: black;
 }
+
+
+@media screen and (max-width: 600px) {
+    .topnav a {
+      float: none;
+      width: 100%;
+    }
+  }
