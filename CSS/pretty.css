@@ -3,7 +3,7 @@ p{
 }
 
 body {
-    color: black;
+    color: gray;
     background-color: white;
     width: 1000px;
     text-align: center;
@@ -37,7 +37,7 @@ span.webpage{
 }
 
 div.pdivclass{
-    text-decoration: underline;
+    color: black
 }
 
 a#myid{
