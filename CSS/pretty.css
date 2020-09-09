@@ -48,6 +48,10 @@ a.menu{
     color: white;
 }
 
+a.link{
+    color: lavendar;
+}
+
 li:hover {
     background-color: lavender;
     color: black;
