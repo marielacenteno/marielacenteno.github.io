@@ -42,6 +42,10 @@ span.looks{
     color: rgb(223, 138, 138);
 }
 
+span.mind{
+    color:purple;
+}
+
 div.pdivclass{
     color: black
 }
