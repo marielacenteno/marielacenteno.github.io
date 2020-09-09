@@ -11,6 +11,7 @@ body {
 
 h1{
     text-align: center;
+    font-size: larger;
 }
 
 ol{
@@ -20,6 +21,8 @@ ol{
 
 h2{
     text-align: center;
+    font-size: larger;
+    color: violet;
 }
 
 li{
