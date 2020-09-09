@@ -71,8 +71,15 @@ li:hover {
     color: purple;
 }
 
-@media (max-width: 600px){
+@media all and (max-width: 600px){
 p{
     font-size: 1.25 rem;
 }
+}
+
+@media all and (max-width: 500px){
+    body{
+        color: gray;
+    }
+
 }
