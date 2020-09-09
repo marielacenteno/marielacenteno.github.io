@@ -11,7 +11,7 @@ body {
 
 h1{
     text-align: center;
-    font-size: larger;
+    font-size: 130%;
 }
 
 ol{
@@ -21,22 +21,21 @@ ol{
 
 h2{
     text-align: center;
-    font-size: larger;
-    color: violet;
+    font-size: 110%;
 }
 
 li{
     list-style-type: none;
     display: inline-block;
-    width:21%;
+    width:25%;
     background-color: rgb(223, 138, 138);
     color: white;
     margin: 0px;
     padding: 10px;
 }
 
-span.webpage{
-    color: red;
+span.mariela{
+    color: purple;
 }
 
 div.pdivclass{
