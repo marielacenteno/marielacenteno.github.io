@@ -49,7 +49,11 @@ a.menu{
 }
 
 a.link{
-    color: lavendar;
+    color: lavender;
+}
+
+a.license{
+    color: lavender;
 }
 
 li:hover {
